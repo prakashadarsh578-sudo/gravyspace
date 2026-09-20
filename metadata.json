@@ -1,0 +1,6 @@
+{
+  "name": "3D Gravity & Orbital Mechanics Simulator",
+  "description": "Interactive 3D educational physics laboratory for Class 11 students exploring Newton's law of universal gravitation, gravitational acceleration, circular and elliptical orbits, escape velocity, and energy conservation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
